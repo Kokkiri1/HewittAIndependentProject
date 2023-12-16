@@ -1,0 +1,8 @@
+-Yughues Free Concrete matierials: Nobiax/Yughues: https://assetstore.unity.com/packages/2d/textures-materials/concrete/yughues-free-concrete-materials-12951
+
+-Robot Kyle URP: Unity Technologies: https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696
+
+-Free Trees: Ada_King : https://assetstore.unity.com/packages/3d/vegetation/trees/free-trees-103208
+
+Albedo terrain textures and water source was used from the Unity Hours book.
+
